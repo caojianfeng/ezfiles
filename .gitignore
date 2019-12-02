@@ -1,0 +1,9 @@
+*.png
+*.pyc
+.vscode
+.DS_Store
+dist/*
+*.egg-info/*
+build/*
+tests/datas/*/*.txt
+tests/datas/*/*.json
